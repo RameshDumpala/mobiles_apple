@@ -1,0 +1,21 @@
+.main_css {
+  display: flex;
+}
+
+.scorll {
+  width: 1180px;
+  overflow-x: scroll;
+}
+
+.scorll::-webkit-scrollbar {
+  height: 10px;
+  overflow-x: scroll;
+}
+
+.scorll::-webkit-scrollbar-thumb {
+  background: skyblue;
+  border-radius: 10px;
+}
+.keys {
+  text-align: center;
+}

@@ -1,0 +1,49 @@
+.iphone_table {
+  width: 210px;
+  height: 100px;
+  line-height: 49px;
+  /* margin: 0px -141px; */
+  text-align: center;
+  /* border-right: 2px solid rgb(234, 147, 147); */
+}
+/* .keys{
+    text-align: center;
+} */
+.australia {
+  height: 20px;
+  margin: 22px 0px;
+  color: green;
+}
+.aus {
+  color: green;
+}
+.canada {
+  height: 20px;
+  margin: 29px 0px;
+  color: red;
+}
+.can {
+  color: red;
+}
+.japan {
+  height: 20px;
+  margin: 34px 0px;
+  color: #be0029;
+}
+.jap {
+  color: #be0029;
+}
+.mexico {
+  color: orange;
+}
+.max {
+  color: orange;
+}
+.india {
+  height: 20px;
+  margin: 32px 0px;
+  color: #06038d;
+}
+.ind {
+  color: #06038d;
+}
